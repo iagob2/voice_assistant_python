@@ -1,0 +1,11 @@
+# Ignorar ambientes virtuais do Python
+backend/venv/
+venv/
+
+# Ignorar variáveis de ambiente (Segurança máxima)
+.env
+backend/.env
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
